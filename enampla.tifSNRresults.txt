@@ -1,0 +1,166 @@
+计算图像的信噪比SNR author：Wang Wenyi version：2023.8.28-2,采用噪声均值计算，信号计算结果为原始信号强度减去了噪声均值 
+averaged SNR is :  -2.6168  db 
+averaged signal power is :  37.7138  ADU 
+averaged noise power is :  109.7853  ADU 
+No.    1  SNR is :  -5.4354  db 
+No.    1  signal power is :  -64.8985  ADU 
+No.    1  noise power is :  226.8703  ADU 
+No.    2  SNR is :  -4.37  db 
+No.    2  signal power is :  -89.1889  ADU 
+No.    2  noise power is :  243.9539  ADU 
+No.    3  SNR is :  -4.2776  db 
+No.    3  signal power is :  -87.4228  ADU 
+No.    3  noise power is :  234.0887  ADU 
+No.    4  SNR is :  -6.0918  db 
+No.    4  signal power is :  -55.9736  ADU 
+No.    4  noise power is :  227.5979  ADU 
+No.    5  SNR is :  -3.6734  db 
+No.    5  signal power is :  -119.2873  ADU 
+No.    5  noise power is :  277.9263  ADU 
+No.    6  SNR is :  -3.3398  db 
+No.    6  signal power is :  -134.97  ADU 
+No.    6  noise power is :  291.2148  ADU 
+No.    7  SNR is :  -3.675  db 
+No.    7  signal power is :  42.345  ADU 
+No.    7  noise power is :  98.6966  ADU 
+No.    8  SNR is :  -2.1371  db 
+No.    8  signal power is :  54.754  ADU 
+No.    8  noise power is :  89.5618  ADU 
+No.    9  SNR is :  -2.0699  db 
+No.    9  signal power is :  48.3896  ADU 
+No.    9  noise power is :  77.936  ADU 
+No.   10  SNR is :  -4.4147  db 
+No.   10  signal power is :  43.257  ADU 
+No.   10  noise power is :  119.5435  ADU 
+No.   11  SNR is :  -4.3933  db 
+No.   11  signal power is :  40.5884  ADU 
+No.   11  noise power is :  111.616  ADU 
+No.   12  SNR is :  -3.6601  db 
+No.   12  signal power is :  45.9252  ADU 
+No.   12  noise power is :  106.6733  ADU 
+No.   13  SNR is :  -2.2061  db 
+No.   13  signal power is :  58.9659  ADU 
+No.   13  noise power is :  97.9974  ADU 
+No.   14  SNR is :  -2.5841  db 
+No.   14  signal power is :  53.9671  ADU 
+No.   14  noise power is :  97.8444  ADU 
+No.   15  SNR is :  -1.1328  db 
+No.   15  signal power is :  64.301  ADU 
+No.   15  noise power is :  83.4628  ADU 
+No.   16  SNR is :  -6.0434  db 
+No.   16  signal power is :  27.8603  ADU 
+No.   16  noise power is :  112.0283  ADU 
+No.   17  SNR is :  -3.439  db 
+No.   17  signal power is :  43.5937  ADU 
+No.   17  noise power is :  96.2337  ADU 
+No.   18  SNR is :  -1.6323  db 
+No.   18  signal power is :  54.2668  ADU 
+No.   18  noise power is :  79.0245  ADU 
+No.   19  SNR is :  -1.546  db 
+No.   19  signal power is :  64.9522  ADU 
+No.   19  noise power is :  92.7234  ADU 
+No.   20  SNR is :  -1.677  db 
+No.   20  signal power is :  62.3238  ADU 
+No.   20  noise power is :  91.697  ADU 
+No.   21  SNR is :  -0.51735  db 
+No.   21  signal power is :  69.8687  ADU 
+No.   21  noise power is :  78.7078  ADU 
+No.   22  SNR is :  -3.8474  db 
+No.   22  signal power is :  46.5543  ADU 
+No.   22  noise power is :  112.9022  ADU 
+No.   23  SNR is :  -2.9442  db 
+No.   23  signal power is :  50.5072  ADU 
+No.   23  noise power is :  99.4879  ADU 
+No.   24  SNR is :  -2.7784  db 
+No.   24  signal power is :  53.1041  ADU 
+No.   24  noise power is :  100.6854  ADU 
+No.   25  SNR is :  -1.4743  db 
+No.   25  signal power is :  57.5092  ADU 
+No.   25  noise power is :  80.7552  ADU 
+No.   26  SNR is :  -1.6887  db 
+No.   26  signal power is :  56.6643  ADU 
+No.   26  noise power is :  83.594  ADU 
+No.   27  SNR is :  -0.70025  db 
+No.   27  signal power is :  56.6708  ADU 
+No.   27  noise power is :  66.5863  ADU 
+No.   28  SNR is :  -2.4674  db 
+No.   28  signal power is :  53.6086  ADU 
+No.   28  noise power is :  94.6179  ADU 
+No.   29  SNR is :  -3.2448  db 
+No.   29  signal power is :  48.4803  ADU 
+No.   29  noise power is :  102.341  ADU 
+No.   30  SNR is :  -1.3862  db 
+No.   30  signal power is :  60.4675  ADU 
+No.   30  noise power is :  83.2033  ADU 
+No.   31  SNR is :  -1.1513  db 
+No.   31  signal power is :  66.0439  ADU 
+No.   31  noise power is :  86.092  ADU 
+No.   32  SNR is :  -1.7979  db 
+No.   32  signal power is :  60.6502  ADU 
+No.   32  noise power is :  91.7537  ADU 
+No.   33  SNR is :  -0.54968  db 
+No.   33  signal power is :  70.0192  ADU 
+No.   33  noise power is :  79.4667  ADU 
+No.   34  SNR is :  -4.2015  db 
+No.   34  signal power is :  37.908  ADU 
+No.   34  noise power is :  99.742  ADU 
+No.   35  SNR is :  -2.7386  db 
+No.   35  signal power is :  47.9353  ADU 
+No.   35  noise power is :  90.0574  ADU 
+No.   36  SNR is :  -2.3341  db 
+No.   36  signal power is :  49.8683  ADU 
+No.   36  noise power is :  85.3569  ADU 
+No.   37  SNR is :  -0.86738  db 
+No.   37  signal power is :  68.1822  ADU 
+No.   37  noise power is :  83.2547  ADU 
+No.   38  SNR is :  -1.343  db 
+No.   38  signal power is :  63.0714  ADU 
+No.   38  noise power is :  85.9286  ADU 
+No.   39  SNR is :  -0.60954  db 
+No.   39  signal power is :  67.4246  ADU 
+No.   39  noise power is :  77.584  ADU 
+No.   40  SNR is :  -4.5454  db 
+No.   40  signal power is :  42.4458  ADU 
+No.   40  noise power is :  120.8859  ADU 
+No.   41  SNR is :  -3.4165  db 
+No.   41  signal power is :  48.5043  ADU 
+No.   41  noise power is :  106.5189  ADU 
+No.   42  SNR is :  -1.9064  db 
+No.   42  signal power is :  57.7232  ADU 
+No.   42  noise power is :  89.5351  ADU 
+No.   43  SNR is :  -1.9425  db 
+No.   43  signal power is :  53.5021  ADU 
+No.   43  noise power is :  83.6791  ADU 
+No.   44  SNR is :  -1.6625  db 
+No.   44  signal power is :  55.3942  ADU 
+No.   44  noise power is :  81.2288  ADU 
+No.   45  SNR is :  -1.3071  db 
+No.   45  signal power is :  56.1948  ADU 
+No.   45  noise power is :  75.9288  ADU 
+No.   46  SNR is :  -3.1715  db 
+No.   46  signal power is :  49.0703  ADU 
+No.   46  noise power is :  101.8526  ADU 
+No.   47  SNR is :  -2.3254  db 
+No.   47  signal power is :  55.9009  ADU 
+No.   47  noise power is :  95.4908  ADU 
+No.   48  SNR is :  -1.3589  db 
+No.   48  signal power is :  62.5402  ADU 
+No.   48  noise power is :  85.5161  ADU 
+No.   49  SNR is :  -1.333  db 
+No.   49  signal power is :  67.118  ADU 
+No.   49  noise power is :  91.2297  ADU 
+No.   50  SNR is :  -1.3004  db 
+No.   50  signal power is :  63.1192  ADU 
+No.   50  noise power is :  85.1537  ADU 
+No.   51  SNR is :  -1.0128  db 
+No.   51  signal power is :  66.2031  ADU 
+No.   51  noise power is :  83.5913  ADU 
+No.   52  SNR is :  -6.0018  db 
+No.   52  signal power is :  28.7085  ADU 
+No.   52  noise power is :  114.3368  ADU 
+No.   53  SNR is :  -2.8156  db 
+No.   53  signal power is :  46.8029  ADU 
+No.   53  noise power is :  89.5031  ADU 
+No.   54  SNR is :  -2.7668  db 
+No.   54  signal power is :  45.0286  ADU 
+No.   54  noise power is :  85.1476  ADU 
